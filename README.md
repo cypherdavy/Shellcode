@@ -1,6 +1,3 @@
-<html>
- <head>
- 
  </head>
  <body>
  <h1>Reverse Shell Tool</h1>
@@ -28,6 +25,6 @@
  <h2>License</h2>
  <p>This tool is released under the MIT License. Feel free to use and modify it as you see fit.</p>
  <h2>Contact</h2>
- <p>If you have any questions or comments, feel free to contact me at <a href="mailto:johndoe@example.com">johndoe@example.com</a>.</p>
+ <p>If you have any questions or comments, feel free to contact me at <a href="mailto:davycypher@gmail.com">davycypher@gmail.com</a>.</p>
  </body>
 </html>
